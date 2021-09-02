@@ -1,18 +1,3 @@
-/*
-
-    Lucas Araújo Pena - 13/0056162
-
-    Conta no SPOJ: @lucpena
-    Link para submissões: https://www.spoj.com/status/lucpena/
-
-
-    III. Binary Search
-    status: Recusado (Wrong Answer on Master Judge)
-
-
-*/
-
-
 #include <iostream>
 #include <stdint.h>
 
