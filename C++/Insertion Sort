@@ -1,17 +1,3 @@
-/*
-
-    Lucas Araújo Pena - 13/0056162
-
-    Conta no SPOJ: @lucpena
-    Link para submissões: https://www.spoj.com/status/lucpena/
-
-
-    II. Insertion Sort
-    status: Recusado (Time Limit Exceeded)
-
-
-*/
-
 #include <iostream>
 #include <stdint.h>
 
